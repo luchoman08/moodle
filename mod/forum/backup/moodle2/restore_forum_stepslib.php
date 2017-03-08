@@ -67,6 +67,11 @@ class restore_forum_activity_structure_step extends restore_activity_structure_s
 
         $newitemid = $DB->insert_record('forum', $data);
         $this->apply_activity_instance($newitemid);
+
+        // Add current enrolled user subscriptions if necessary.
+        $data->id = $newitemid;
+        $ctx = context_module::instance($this->task->get_moduleid());
+        forum_instance_created($ctx, $data);
     }
 
     protected function process_forum_discussion($data) {
@@ -149,6 +154,8 @@ class restore_forum_activity_structure_step extends restore_activity_structure_s
         $data->userid = $this->get_mappingid('user', $data->userid);
 
         $newitemid = $DB->insert_record('forum_subscriptions', $data);
+        $this->set_mapping('forum_subscription', $oldid, $newitemid, true);
+
     }
 
     protected function process_forum_discussion_sub($data) {
@@ -162,6 +169,7 @@ class restore_forum_activity_structure_step extends restore_activity_structure_s
         $data->userid = $this->get_mappingid('user', $data->userid);
 
         $newitemid = $DB->insert_record('forum_discussion_subs', $data);
+        $this->set_mapping('forum_discussion_sub', $oldid, $newitemid, true);
     }
 
     protected function process_forum_digest($data) {
@@ -221,7 +229,7 @@ class restore_forum_activity_structure_step extends restore_activity_structure_s
         $forumrec = $DB->get_record('forum', array('id' => $forumid));
         if ($forumrec->type == 'single' && !$DB->record_exists('forum_discussions', array('forum' => $forumid))) {
             // Create single discussion/lead post from forum data
-            $sd = new stdclass();
+            $sd = new stdClass();
             $sd->course   = $forumrec->course;
             $sd->forum    = $forumrec->id;
             $sd->name     = $forumrec->name;
@@ -237,7 +245,7 @@ class restore_forum_activity_structure_step extends restore_activity_structure_s
             $fs = get_file_storage();
             $files = $fs->get_area_files($this->task->get_contextid(), 'mod_forum', 'intro');
             foreach ($files as $file) {
-                $newfilerecord = new stdclass();
+                $newfilerecord = new stdClass();
                 $newfilerecord->filearea = 'post';
                 $newfilerecord->itemid   = $DB->get_field('forum_discussions', 'firstpost', array('id' => $sdid));
                 $fs->create_file_from_storedfile($newfilerecord, $file);

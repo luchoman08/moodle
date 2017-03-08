@@ -52,6 +52,12 @@ class moodle_phpmailer extends PHPMailer {
         global $CFG;
         $this->Version   = 'Moodle '.$CFG->version;         // mailer version
         $this->CharSet   = 'UTF-8';
+        // MDL-52637: Disable the automatic TLS encryption added in v5.2.10 (9da56fc1328a72aa124b35b738966315c41ef5c6).
+        $this->SMTPAutoTLS = false;
+
+        if (!empty($CFG->smtpauthtype)) {
+            $this->AuthType = $CFG->smtpauthtype;
+        }
 
         // Some MTAs may do double conversion of LF if CRLF used, CRLF is required line ending in RFC 822bis.
         if (isset($CFG->mailnewline) and $CFG->mailnewline == 'CRLF') {
@@ -68,10 +74,10 @@ class moodle_phpmailer extends PHPMailer {
      */
     public function addCustomHeader($custom_header, $value = null) {
         if ($value === null and preg_match('/message-id:(.*)/i', $custom_header, $matches)) {
-            $this->MessageID = $matches[1];
+            $this->MessageID = trim($matches[1]);
             return true;
         } else if ($value !== null and strcasecmp($custom_header, 'message-id') === 0) {
-            $this->MessageID = $value;
+            $this->MessageID = trim($value);
             return true;
         } else {
             return parent::addCustomHeader($custom_header, $value);

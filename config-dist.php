@@ -59,6 +59,17 @@ $CFG->dboptions = array(
     'dbport'    => '',          // the TCP port number to use when connecting
                                 //  to the server. keep empty string for the
                                 //  default port
+    'dbhandlesoptions' => false,// On PostgreSQL poolers like pgbouncer don't
+                                // support advanced options on connection.
+                                // If you set those in the database then
+                                // the advanced settings will not be sent.
+    'dbcollation' => 'utf8mb4_unicode_ci', // MySQL has partial and full UTF-8
+                                // support. If you wish to use partial UTF-8
+                                // (three bytes) then set this option to
+                                // 'utf8_unicode_ci', otherwise this option
+                                // can be removed for MySQL (by default it will
+                                // use 'utf8mb4_unicode_ci'. This option should
+                                // be removed for all other databases.
 );
 
 
@@ -249,6 +260,15 @@ $CFG->admin = 'admin';
 //      $CFG->session_memcached_acquire_lock_timeout = 120;
 //      $CFG->session_memcached_lock_expire = 7200;       // Ignored if PECL memcached is below version 2.2.0
 //
+//   Redis session handler (requires redis server and redis extension):
+//      $CFG->session_handler_class = '\core\session\redis';
+//      $CFG->session_redis_host = '127.0.0.1';
+//      $CFG->session_redis_port = 6379;  // Optional.
+//      $CFG->session_redis_database = 0;  // Optional, default is db 0.
+//      $CFG->session_redis_prefix = ''; // Optional, default is don't set one.
+//      $CFG->session_redis_acquire_lock_timeout = 120;
+//      $CFG->session_redis_lock_expire = 7200;
+//
 //   Memcache session handler (requires memcached server and memcache extension):
 //      $CFG->session_handler_class = '\core\session\memcache';
 //      $CFG->session_memcache_save_path = '127.0.0.1:11211';
@@ -297,6 +317,11 @@ $CFG->admin = 'admin';
 //
 // This setting will make some graphs (eg user logs) use lines instead of bars
 //      $CFG->preferlinegraphs = true;
+//
+// This setting allows you to specify a class to rewrite outgoing urls
+// enabling 'clean urls' in conjunction with an apache / nginx handler.
+// The handler must implement \core\output\url_rewriter.
+//      $CFG->urlrewriteclass = '\local_cleanurls\url_rewriter';
 //
 // Enabling this will allow custom scripts to replace existing moodle scripts.
 // For example: if $CFG->customscripts/course/view.php exists then
@@ -416,46 +441,17 @@ $CFG->admin = 'admin';
 //
 //     $CFG->altcacheconfigpath = '/var/www/shared/moodle.cache.config.php
 //
-// The CSS files the Moodle produces can be extremely large and complex, especially
-// if you are using a custom theme that builds upon several other themes.
-// In Moodle 2.3 a CSS optimiser was added as an experimental feature for advanced
-// users. The CSS optimiser organises the CSS in order to reduce the overall number
-// of rules and styles being sent to the client. It does this by collating the
-// CSS before it is cached removing excess styles and rules and stripping out any
-// extraneous content such as comments and empty rules.
-// The following settings are used to enable and control the optimisation.
-//
-// Enable the CSS optimiser. This will only optimise the CSS if themedesignermode
-// is not enabled. This can be set through the UI however it is noted here as well
-// because the other CSS optimiser settings can not be set through the UI.
-//
-//      $CFG->enablecssoptimiser = true;
-//
-// If set the CSS optimiser will add stats about the optimisation to the top of
-// the optimised CSS file. You can then inspect the CSS to see the affect the CSS
-// optimiser is having.
-//
-//      $CFG->cssoptimiserstats = true;
-//
-// If set the CSS that is optimised will still retain a minimalistic formatting
-// so that anyone wanting to can still clearly read it.
-//
-//      $CFG->cssoptimiserpretty = true;
-//
 // Use the following flag to completely disable the Available update notifications
 // feature and hide it from the server administration UI.
 //
 //      $CFG->disableupdatenotifications = true;
 //
-// Use the following flag to completely disable the Automatic updates deployment
-// feature and hide it from the server administration UI.
+// Use the following flag to completely disable the installation of plugins
+// (new plugins, available updates and missing dependencies) and related
+// features (such as cancelling the plugin installation or upgrade) via the
+// server administration web interface.
 //
 //      $CFG->disableupdateautodeploy = true;
-//
-// Use the following flag to completely disable the On-click add-on installation
-// feature and hide it from the server administration UI.
-//
-//      $CFG->disableonclickaddoninstall = true;
 //
 // Use the following flag to disable modifications to scheduled tasks
 // whilst still showing the state of tasks.
@@ -530,6 +526,19 @@ $CFG->admin = 'admin';
 // any icon inside the pix/f folder. You can also set the customdescription field
 // (shown above) and (for advanced use) the groups, string, and defaulticon fields.
 //
+// Upgrade key
+//
+// If the upgrade key is defined here, then the value must be provided every time
+// the site is being upgraded though the web interface, regardless of whether the
+// administrator is logged in or not. This prevents anonymous access to the upgrade
+// screens where the real authentication and authorization mechanisms can not be
+// relied on.
+//
+// It is strongly recommended to use a value different from your real account
+// password.
+//
+//      $CFG->upgradekey = 'put_some_password-like_value_here';
+//
 //=========================================================================
 // 7. SETTINGS FOR DEVELOPMENT SERVERS - not intended for production use!!!
 //=========================================================================
@@ -547,6 +556,9 @@ $CFG->admin = 'admin';
 //
 // Prevent theme caching
 // $CFG->themedesignermode = true; // NOT FOR PRODUCTION SERVERS!
+//
+// Enable verbose debug information during fetching of email messages from IMAP server.
+// $CFG->debugimap = true;
 //
 // Prevent JS caching
 // $CFG->cachejs = false; // NOT FOR PRODUCTION SERVERS!
@@ -578,6 +590,10 @@ $CFG->admin = 'admin';
 //
 // Divert all outgoing emails to this address to test and debug emailing features
 // $CFG->divertallemailsto = 'root@localhost.local'; // NOT FOR PRODUCTION SERVERS!
+//
+// Except for certain email addresses you want to let through for testing. Accepts
+// a comma separated list of regexes.
+// $CFG->divertallemailsexcept = 'tester@dev.com, fred(\+.*)?@example.com'; // NOT FOR PRODUCTION SERVERS!
 //
 // Uncomment if you want to allow empty comments when modifying install.xml files.
 // $CFG->xmldbdisablecommentchecking = true;    // NOT FOR PRODUCTION SERVERS!
@@ -617,6 +633,7 @@ $CFG->admin = 'admin';
 // $CFG->phpunit_prefix = 'phpu_';
 // $CFG->phpunit_dataroot = '/home/example/phpu_moodledata';
 // $CFG->phpunit_directorypermissions = 02777; // optional
+// $CFG->phpunit_profilingenabled = true; // optional to profile PHPUnit runs.
 //
 //
 //=========================================================================
@@ -654,18 +671,16 @@ $CFG->admin = 'admin';
 // params hierarchy. More info: http://docs.behat.org/guides/7.config.html
 // Example:
 //   $CFG->behat_config = array(
-//       'default' => array(
-//           'formatter' => array(
-//               'name' => 'pretty',
-//               'parameters' => array(
-//                   'decorated' => true,
-//                   'verbose' => false
-//               )
-//           )
-//       ),
 //       'Mac-Firefox' => array(
+//           'suites' => array (
+//               'default' => array(
+//                   'filters' => array(
+//                      'tags' => '~@_file_upload'
+//                   ),
+//               ),
+//           ),
 //           'extensions' => array(
-//               'Behat\MinkExtension\Extension' => array(
+//               'Behat\MinkExtension' => array(
 //                   'selenium2' => array(
 //                       'browser' => 'firefox',
 //                       'capabilities' => array(
@@ -678,7 +693,7 @@ $CFG->admin = 'admin';
 //       ),
 //       'Mac-Safari' => array(
 //           'extensions' => array(
-//               'Behat\MinkExtension\Extension' => array(
+//               'Behat\MinkExtension' => array(
 //                   'selenium2' => array(
 //                       'browser' => 'safari',
 //                       'capabilities' => array(
@@ -802,11 +817,6 @@ $CFG->admin = 'admin';
 // and 'gsdll32.dll' to a new folder without a space in the path)
 //      $CFG->pathtogs = '/usr/bin/gs';
 //
-// Clam AV path.
-// Probably something like /usr/bin/clamscan or /usr/bin/clamdscan. You need
-// this in order for clam AV to run.
-//      $CFG->pathtoclam = '';
-//
 // Path to du.
 // Probably something like /usr/bin/du. If you enter this, pages that display
 // directory contents will run much faster for directories with a lot of files.
@@ -825,12 +835,18 @@ $CFG->admin = 'admin';
 // Note that, for now, this only used by the profiling features
 // (Development->Profiling) built into Moodle.
 //      $CFG->pathtodot = '';
+//
+// Path to unoconv.
+// Probably something like /usr/bin/unoconv. Used as a fallback to convert between document formats.
+// Unoconv is used convert between file formats supported by LibreOffice.
+// Use a recent version of unoconv ( >= 0.7 ), older versions have trouble running from a webserver.
+//      $CFG->pathtounoconv = '';
 
 //=========================================================================
 // ALL DONE!  To continue installation, visit your main page with a browser
 //=========================================================================
 
-require_once(dirname(__FILE__) . '/lib/setup.php'); // Do not edit
+require_once(__DIR__ . '/lib/setup.php'); // Do not edit
 
 // There is no php closing tag in this file,
 // it is intentional because it prevents trailing whitespace problems!

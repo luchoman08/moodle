@@ -27,19 +27,19 @@
 defined('MOODLE_INTERNAL') || die();
 
 require_once($CFG->libdir . '/filelib.php');
-require_once(dirname(__FILE__) . '/questionusage.php');
-require_once(dirname(__FILE__) . '/questionattempt.php');
-require_once(dirname(__FILE__) . '/questionattemptstep.php');
-require_once(dirname(__FILE__) . '/states.php');
-require_once(dirname(__FILE__) . '/datalib.php');
-require_once(dirname(__FILE__) . '/renderer.php');
-require_once(dirname(__FILE__) . '/bank.php');
-require_once(dirname(__FILE__) . '/../type/questiontypebase.php');
-require_once(dirname(__FILE__) . '/../type/questionbase.php');
-require_once(dirname(__FILE__) . '/../type/rendererbase.php');
-require_once(dirname(__FILE__) . '/../behaviour/behaviourtypebase.php');
-require_once(dirname(__FILE__) . '/../behaviour/behaviourbase.php');
-require_once(dirname(__FILE__) . '/../behaviour/rendererbase.php');
+require_once(__DIR__ . '/questionusage.php');
+require_once(__DIR__ . '/questionattempt.php');
+require_once(__DIR__ . '/questionattemptstep.php');
+require_once(__DIR__ . '/states.php');
+require_once(__DIR__ . '/datalib.php');
+require_once(__DIR__ . '/renderer.php');
+require_once(__DIR__ . '/bank.php');
+require_once(__DIR__ . '/../type/questiontypebase.php');
+require_once(__DIR__ . '/../type/questionbase.php');
+require_once(__DIR__ . '/../type/rendererbase.php');
+require_once(__DIR__ . '/../behaviour/behaviourtypebase.php');
+require_once(__DIR__ . '/../behaviour/behaviourbase.php');
+require_once(__DIR__ . '/../behaviour/rendererbase.php');
 require_once($CFG->libdir . '/questionlib.php');
 
 
@@ -445,7 +445,7 @@ abstract class question_engine {
     /**
      * Returns the valid choices for the number of decimal places for showing
      * question marks. For use in the user interface.
-     * @return array suitable for passing to {@link choose_from_menu()} or similar.
+     * @return array suitable for passing to {@link html_writer::select()} or similar.
      */
     public static function get_dp_options() {
         return question_display_options::get_dp_options();
@@ -650,7 +650,7 @@ class question_display_options {
      * Calling code should probably use {@link question_engine::get_dp_options()}
      * rather than calling this method directly.
      *
-     * @return array suitable for passing to {@link choose_from_menu()} or similar.
+     * @return array suitable for passing to {@link html_writer::select()} or similar.
      */
     public static function get_dp_options() {
         $options = array();

@@ -27,6 +27,12 @@ require_once($CFG->dirroot.'/repository/lib.php');
 class data_field_textarea extends data_field_base {
 
     var $type = 'textarea';
+    /**
+     * priority for globalsearch indexing
+     *
+     * @var int
+     */
+    protected static $priority = self::LOW_PRIORITY;
 
     /**
      * Returns options for embedded files
@@ -55,8 +61,8 @@ class data_field_textarea extends data_field_base {
         $text   = '';
         $format = 0;
         $str = '<div title="' . s($this->field->description) . '">';
-        $str .= '<label for="field_' . $this->field->id . '">';
-        $str .= html_writer::span($this->field->name, "accesshide");
+        $str .= '<label for="field_' . $this->field->id . '" class="accesshide">';
+        $str .= html_writer::span($this->field->name);
         if ($this->field->required) {
             $image = html_writer::img($OUTPUT->pix_url('req'), get_string('requiredelement', 'form'),
                                      array('class' => 'req', 'title' => get_string('requiredelement', 'form')));
@@ -166,7 +172,8 @@ class data_field_textarea extends data_field_base {
 
     function display_search_field($value = '') {
         return '<label class="accesshide" for="f_' . $this->field->id . '">' . $this->field->name . '</label>' .
-               '<input type="text" size="16" id="f_'.$this->field->id.'" name="f_'.$this->field->id.'" value="'.s($value).'" />';
+               '<input type="text" size="16" id="f_' . $this->field->id . '" name="f_' . $this->field->id . '" ' .
+               'value="' . s($value) . '" class="form-control"/>';
     }
 
     function parse_search_field() {
@@ -199,7 +206,7 @@ class data_field_textarea extends data_field_base {
                 // the value will be retrieved by file_get_submitted_draft_itemid, do not need to save in DB
                 return true;
             } else {
-                $content->$names[2] = clean_param($value, PARAM_NOTAGS);  // content[1-4]
+                $content->{$names[2]} = clean_param($value, PARAM_NOTAGS);  // content[1-4]
             }
         } else {
             $content->content = clean_param($value, PARAM_CLEAN);
@@ -275,4 +282,17 @@ class data_field_textarea extends data_field_base {
         }
         return false;
     }
+
+    /**
+     * Returns the presentable string value for a field content.
+     *
+     * The returned string should be plain text.
+     *
+     * @param stdClass $content
+     * @return string
+     */
+    public static function get_content_value($content) {
+        return content_to_text($content->content, $content->content1);
+    }
+
 }
