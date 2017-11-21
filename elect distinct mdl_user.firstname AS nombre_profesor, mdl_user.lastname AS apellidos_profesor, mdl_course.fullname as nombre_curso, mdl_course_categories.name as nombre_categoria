@@ -1,0 +1,414 @@
+     firstname      |       lastname       |                                       fullname                                       |                      name                      
+--------------------+----------------------+--------------------------------------------------------------------------------------+------------------------------------------------
+ ABELARDO           | JIMENEZ              | TRABAJO DE INVESTIGACIÓN-02                                                         | ESCUELA DE SALUD PUBLICA
+ ADALBERTO          | SANCHEZ GOMEZ        | BIOLOGÍA CELULAR-01                                                                 | CIENCIAS FISIOLOGICAS
+ ADALBERTO          | SANCHEZ GOMEZ        | BIOLOGÍA CELULAR-02                                                                 | CIENCIAS FISIOLOGICAS
+ ADALBERTO          | SANCHEZ GOMEZ        | BIOLOGÍA MOLECULAR-01                                                               | CIENCIAS FISIOLOGICAS
+ ADALGISA           | MAGAÑA              | METODOLOGÍA DE LA INVESTIGACIÓN III-01                                             | ESCUELA DE SALUD PUBLICA
+ ADALGISA           | MAGAÑA              | TRABAJO DE INVESTIGACIÓN-01                                                         | ESCUELA DE SALUD PUBLICA
+ ADOLFO             | GONZALEZ HADAD       | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ ADOLFO LEON        | BOLAÑOS VIDAL       | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ ADRIANA            | CASTRO MAÑUNGA      | INVESTIGACIÓN I-01                                                                  | ESCUELA DE ENFERMERIA
+ AIDA JOSEFINA      | ROJAS FAJARDO        | ENTORNO LABORAL II-01                                                                | ESCUELA DE REHABILITACION HUMANA
+ ALADIN             | HERRERA              | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ ALADIN             | HERRERA              | TRAUMA Y VIOLENCIA I-01                                                              | CIRUGIA
+ ALBERTO JOSE       | COBO BORRERO         | VIGILANCIA EPIDEMIOLÓGICA-01                                                        | ESCUELA DE SALUD PUBLICA
+ ALEJANDRO          | HERRERA TRUJILLO     | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ ALEJANDRO          | RODRIGUEZ CAMPO      | ANATOMÍA HUMANA GENERAL-04                                                          | MORFOLOGIA
+ ALEJANDRO          | RODRIGUEZ CAMPO      | BASES BIOLÓGICAS DEL LENGUAJE III-01                                                | ESCUELA DE REHABILITACION HUMANA
+ ALEJANDRO          | RODRIGUEZ CAMPO      | DISCAPACIDAD E INTERVENCIÓN DEL HABLA EN LA INFANCIA-01                             | ESCUELA DE REHABILITACION HUMANA
+ ALEXANDER          | AGUDELO OROZCO       | CONCEPTUALIZACIÓN DE LA OCUPACIÓN HUMANA-01                                        | ESCUELA DE REHABILITACION HUMANA
+ ALEXANDER          | AGUDELO OROZCO       | TECNOLOGÍA EN REHABILITACIÓN-01                                                    | ESCUELA DE REHABILITACION HUMANA
+ ALEXANDER          | AGUDELO OROZCO       | TRABAJO DE GRADO II-03                                                               | ESCUELA DE REHABILITACION HUMANA
+ ALEXANDRA          | COSSIO DUQUE         | INVESTIGACIÓN II-01                                                                 | ESCUELA DE ENFERMERIA
+ ALVARO             | VILLEGAS VICTORIA    | TRAUMA Y VIOLENCIA I-01                                                              | CIRUGIA
+ ALVARO GIOVANNI    | SILVA AMADO          | FUNDAMENTOS DE MEDICINA FAMILIAR I-01                                                | SALUD FAMILIAR
+ ALVARO GIOVANNI    | SILVA AMADO          | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ ALVARO GIOVANNI    | SILVA AMADO          | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ AMANDA PATRICIA    | MOLINA ESTRADA       | INVESTIGACIÓN I-01                                                                  | ESCUELA DE ENFERMERIA
+ AMPARO             | BERMUDEZ ESCOBAR     | PROMOCIÓN DE LA SALUD II-04                                                         | ESCUELA DE SALUD PUBLICA
+ AMPARO             | BERMUDEZ ESCOBAR     | ÉTICA I-05                                                                          | ESCUELA DE SALUD PUBLICA
+ AMPARO             | BERMUDEZ ESCOBAR     | ÉTICA II-03                                                                         | ESCUELA DE SALUD PUBLICA
+ AMPARO             | BERMUDEZ ESCOBAR     | ÉTICA PROFESIONAL-01                                                                | ESCUELA DE SALUD PUBLICA
+ ANA MARCELA        | BOLAÑOS ROLDAN      | DESARROLLO MOTOR NORMAL-01                                                           | ESCUELA DE REHABILITACION HUMANA
+ ANA MARCELA        | BOLAÑOS ROLDAN      | PRÁCTICA PROFESIONAL EN FISIOTERAPIA IV-01                                          | ESCUELA DE REHABILITACION HUMANA
+ ANA MILENA         | GALARZA IGLESIAS     | ESTRATEGIAS DE EDUCACIÓN SUPERIOR Y DOCENCIA UNIVERSITARIA-01                       | ESCUELA DE SALUD PUBLICA
+ ANA MILENA         | GALARZA IGLESIAS     | ESTRATEGIAS DOCENTES-01                                                              | ESCUELA DE SALUD PUBLICA
+ ANA MILENA         | GALARZA IGLESIAS     | PRÁCTICA PROFESIONAL I-09                                                           | ESCUELA DE REHABILITACION HUMANA
+ ANA MILENA         | GALARZA IGLESIAS     | TALLER DEL DESEMPEÑO OCUPACIONAL-06                                                 | ESCUELA DE REHABILITACION HUMANA
+ ANA MILENA         | GALARZA IGLESIAS     | TERAPIA OCUPACIONAL EN LABORAL-01                                                    | ESCUELA DE REHABILITACION HUMANA
+ ANDREA             | AGUILAR ARIAS        | PRÁCTICA PROFESIONAL EN FONOAUDIOLOGÍA II-02                                       | ESCUELA DE REHABILITACION HUMANA
+ ANDRES FELIPE      | ZEA VERA             | MICROBIOLOGÍA-01                                                                    | MICROBIOLOGIA
+ ANGELA MARIA       | DUQUE BORRERO        | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ ANTONIO            | MADRID PINILLA       | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ ARNO FREDERICO     | BROMET SCHUNN        | MEDICINA  FAMILIAR INTEGRAL I - MEDICINA FAMILIAR-01                                 | SALUD FAMILIAR
+ ARNO FREDERICO     | BROMET SCHUNN        | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ AUDREY MARY        | MATALLANA RHOADES    | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ AVELINO            | MARTINEZ SANDOVAL    | EVALUACIÓN SOCIAL Y ECONÓMICA EN SALUD-02                                          | ESCUELA DE SALUD PUBLICA
+ AYDA LUZ           | QUINTERO             | INVESTIGACIÓN I-01                                                                  | ESCUELA DE ENFERMERIA
+ BEATRIZ            | FERNANDEZ            | PRÁCTICA PROFESIONAL EN FISIOTERAPIA IV-01                                          | ESCUELA DE REHABILITACION HUMANA
+ BEATRIZ            | FERNANDEZ            | SEMINARIO DE INTEGRACIÓN IV-01                                                      | ESCUELA DE REHABILITACION HUMANA
+ BEATRIZ            | PARRA PATIÑO        | MICROBIOLOGÍA-01                                                                    | MICROBIOLOGIA
+ BEATRIZ EUGENIA    | GUERRERO ARIAS       | DISCAPACIDAD E INTERVENCIÓN DE LA COMUNICACIÓN Y EL LENGUAJE EN EL ADULTO-01       | ESCUELA DE REHABILITACION HUMANA
+ BEATRIZ EUGENIA    | GUERRERO ARIAS       | DISCAPACIDAD Y SOCIEDAD II-01                                                        | ESCUELA DE REHABILITACION HUMANA
+ BIBIANA            | YEPEZ                | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ BLANCA CECILIA     | SALAZAR CONTRERAS    | FISIOLOGÍA DE SISTEMAS II-01                                                        | CIENCIAS FISIOLOGICAS
+ BLANCA CECILIA     | SALAZAR CONTRERAS    | FISIOLOGÍA-18                                                                       | CIENCIAS FISIOLOGICAS
+ BRENDA DORIS       | SANCHEZ ARTEAGA      | SOPORTE VITAL BÁSICO EN LA ATENCIÓN PREHOSPITALARIA-01                             | ESCUELA DE MEDICINA
+ CAMILA DEL PILAR   | RODRIGUEZ CARDENAS   | BIOQUÍMICA CLÍNICA I-01                                                            | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ CAMILA DEL PILAR   | RODRIGUEZ CARDENAS   | PRÁCTICA CLÍNICA EN BIOQUÍMICA-01                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ CAMILA DEL PILAR   | RODRIGUEZ CARDENAS   | PRÁCTICA CLÍNICA EN BIOQUÍMICA-02                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ CARLOS             | GARCIA               | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ CARLOS ADOLFO      | VELEZ JARAMILLO      | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ CARLOS ALBERTO     | ANGULO TORO          | CUIDADO CRITICO I-01                                                                 | ESCUELA DE ENFERMERIA
+ CARLOS ALBERTO     | JIMENEZ FERNANDEZ    | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ CARLOS ALBERTO     | VELASCO BENITEZ      | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ CARLOS ALFONSO     | DE LOS REYES GUEVARA | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ CARLOS ALFONSO     | OSORIO TORRES        | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ CARLOS ALFONSO     | OSORIO TORRES        | MEDICINA DEL TRABAJO -PREVENCIÓN EN AMBIENTE OPERATIVO-01                           | ESCUELA DE SALUD PUBLICA
+ CARLOS ALFONSO     | OSORIO TORRES        | METODOLOGÍA DE LA INVESTIGACIÓN III-01                                             | ESCUELA DE SALUD PUBLICA
+ CARLOS ALFONSO     | OSORIO TORRES        | TRABAJO DE INVESTIGACIÓN-01                                                         | ESCUELA DE SALUD PUBLICA
+ CARLOS ANDRES      | FANDIÑO LOSADA      | BIOESTADÍSTICA DESCRIPTIVA Y ANALÍTICA-01                                          | ESCUELA DE SALUD PUBLICA
+ CARLOS ANDRES      | FANDIÑO LOSADA      | EPIDEMIOLOGÍA APLICADA II-01                                                        | ESCUELA DE SALUD PUBLICA
+ CARLOS ANDRES      | FANDIÑO LOSADA      | EPIDEMIOLOGÍA II-01                                                                 | ESCUELA DE SALUD PUBLICA
+ CARLOS ANDRES      | FANDIÑO LOSADA      | METODOLOGÍA DE LA INVESTIGACIÓN I-02                                               | ESCUELA DE SALUD PUBLICA
+ CARLOS ANDRES      | FANDIÑO LOSADA      | PROYECTO DE INVESTIGACIÓN I-01                                                      | ESCUELA DE SALUD PUBLICA
+ CARLOS ANDRES      | FANDIÑO LOSADA      | SEMINARIO DE TESIS II - DOCTORADO EN SALUD-01                                        | OFICINA EN EDUCACION EN SALUD
+ CARLOS ANDRES      | FANDIÑO LOSADA      | TRAUMA Y VIOLENCIA I-01                                                              | CIRUGIA
+ CARLOS ANDRES      | PINEDA CAÑAR        | FUNDAMENTOS DE MEDICINA FAMILIAR I-01                                                | SALUD FAMILIAR
+ CARLOS ANDRES      | PINEDA CAÑAR        | MEDICINA  FAMILIAR INTEGRAL I - MEDICINA FAMILIAR-01                                 | SALUD FAMILIAR
+ CARLOS ANDRES      | PINEDA CAÑAR        | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ CARLOS ANDRES      | PINEDA CAÑAR        | PEDAGOGÍA - MEDICINA FAMILIAR-01                                                    | SALUD FAMILIAR
+ CARLOS ANDRES      | PINEDA CAÑAR        | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ CARLOS ARMANDO     | ECHANDIA ALVAREZ     | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ CARMEN TATIANA     | VÉLEZ MOSQUERA      | MEDICINA  FAMILIAR INTEGRAL I - MEDICINA FAMILIAR-01                                 | SALUD FAMILIAR
+ CARMEN TATIANA     | VÉLEZ MOSQUERA      | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ CAROLINA           | ARIAS QUIROZ         | ASEGURAMIENTO DE LA CALIDAD-01                                                       | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ CAROLINA           | ARIAS QUIROZ         | BIOQUÍMICA CLÍNICA I-01                                                            | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ CAROLINA           | ARIAS QUIROZ         | PRÁCTICA CLÍNICA EN BIOQUÍMICA-01                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ CAROLINA           | ARIAS QUIROZ         | PRÁCTICA CLÍNICA EN BIOQUÍMICA-02                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ CAROLINA           | ARIAS QUIROZ         | SISTEMA DE GESTIÓN DE CALIDAD-01                                                    | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ CESAR IVAN         | VARELA HERNANDEZ     | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ CHRISTIAN ANDRS    | ROJAS CERON          | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ CLAUDIA LILIANA    | ARIAS GARCIA         | METODOLOGÍAS DE AUTOFORMACIÓN-80                                                   | OFICINA EN EDUCACION EN SALUD
+ CLAUDIA PATRICIA   | VALENCIA MOLINA      | SEMINARIO DE INVESTIGACIÓN I-01                                                     | ESCUELA DE ENFERMERIA
+ CONSTANZA          | DIAZ GRAJALES        | FRANJA SOCIAL EN SALUD IV-04                                                         | ESCUELA DE SALUD PUBLICA
+ CONSTANZA          | DIAZ GRAJALES        | PROMOCIÓN DE LA SALUD II-02                                                         | ESCUELA DE SALUD PUBLICA
+ CONSTANZA LEONOR   | NUÑEZ MEJIA         | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ CONSTANZA PATRICIA | MAPALLO SILVA        | DESARROLLO HUMANO II-04                                                              | ESCUELA DE REHABILITACION HUMANA
+ CONSTANZA PATRICIA | MAPALLO SILVA        | PRÁCTICA PROFESIONAL I-02                                                           | ESCUELA DE REHABILITACION HUMANA
+ CONSUELO           | RESTREPO DE ROVETTO  | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ DANIEL             | ECHEVERRI GARCIA     | BIOESTADÍSTICA DESCRIPTIVA Y ANALÍTICA-02                                          | ESCUELA DE SALUD PUBLICA
+ DANIEL ELIAS       | CUARTAS ARROYAVE     | EPIDEMIOLOGÍA APLICADA II-01                                                        | ESCUELA DE SALUD PUBLICA
+ DANIEL ELIAS       | CUARTAS ARROYAVE     | FRANJA SOCIAL EN SALUD II-09                                                         | ESCUELA DE SALUD PUBLICA
+ DANIEL ELIAS       | CUARTAS ARROYAVE     | FRANJA SOCIAL EN SALUD II-F01                                                        | ESCUELA DE SALUD PUBLICA
+ DANIEL ELIAS       | CUARTAS ARROYAVE     | TRABAJO DE INVESTIGACIÓN-03                                                         | ESCUELA DE SALUD PUBLICA
+ DANIEL ELIAS       | CUARTAS ARROYAVE     | TRABAJO DE INVESTIGACIÓN-04                                                         | ESCUELA DE SALUD PUBLICA
+ DELIA              | BURGOS DAVILA        | CUIDADO AMBULATORIO AL ADULTO Y ANCIANO-01                                           | ESCUELA DE ENFERMERIA
+ DELIA              | BURGOS DAVILA        | SEMINARIO DE INVESTIGACIÓN I-01                                                     | ESCUELA DE ENFERMERIA
+ DELIA              | BURGOS DAVILA        | SEXUALIDAD HUMANA Y SALUD REPRODUCTIVA-01                                            | ESCUELA DE ENFERMERIA
+ DELIA              | ORTEGA LENIS         | BIOESTADÍSTICA DESCRIPTIVA Y ANALÍTICA-03                                          | ESCUELA DE SALUD PUBLICA
+ DELIA              | ORTEGA LENIS         | BIOMETRÍA-02                                                                        | ESCUELA DE SALUD PUBLICA
+ DELIA              | ORTEGA LENIS         | EPIDEMIOLOGÍA APLICADA II-01                                                        | ESCUELA DE SALUD PUBLICA
+ DELIA              | ORTEGA LENIS         | EPIDEMIOLOGÍA II-01                                                                 | ESCUELA DE SALUD PUBLICA
+ DELIANA            | ROPERO ROJAS         | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ DIANA CAROLINA     | ZAMUDIO ESPINOSA     | INVESTIGACIÓN II-01                                                                 | ESCUELA DE REHABILITACION HUMANA
+ DIANA CAROLINA     | ZAMUDIO ESPINOSA     | PROCESOS EVALUATIVOS DEL DESEMPEÑO OCUPACIONAL I-02                                 | ESCUELA DE REHABILITACION HUMANA
+ DIANA CAROLINA     | ZAMUDIO ESPINOSA     | PRÁCTICA PROFESIONAL I-01                                                           | ESCUELA DE REHABILITACION HUMANA
+ DIANA MARITZA      | JURADO OREJUELA      | HEMATOLOGÍA CLÍNICA-01                                                             | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ DIANA MARITZA      | JURADO OREJUELA      | HEMATOLOGÍA CLÍNICA-02                                                             | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ DIANA MARITZA      | JURADO OREJUELA      | PRÁCTICA CLÍNICA EN HEMATOLOGÍA-01                                                | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ DIANA MARITZA      | JURADO OREJUELA      | PRÁCTICA CLÍNICA EN HEMATOLOGÍA-02                                                | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ DIANA MARÍA       | IRURITA SÁNCHEZ     | PRÁCTICA PROFESIONAL EN FONOAUDIOLOGÍA II-02                                       | ESCUELA DE REHABILITACION HUMANA
+ DIEGO              | LOPEZ TENORIO        | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ DIEGO FERNANDO     | CASTILLO             | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ DIEGO FERNANDO     | RODRIGUEZ SILVA      | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ DORA EUGENIA       | ORDOÑEZ DAZA        | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ DORA PATRICIA      | BERNAL OCAMPO        | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ EDGAR YONI         | MORALES              | TRAUMA Y VIOLENCIA I-01                                                              | CIRUGIA
+ EDISON ANDRES      | CRUZ OLIVO           | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ ELIANA MARIA       | OSPINA MORENO        | ENTORNO EDUCATIVO II-01                                                              | ESCUELA DE REHABILITACION HUMANA
+ ELIANA MARIA       | OSPINA MORENO        | JUEGO TERAPÉUTICO-01                                                                | ESCUELA DE REHABILITACION HUMANA
+ ELIZABETH          | MENDOZA              | PROCESOS EVALUATIVOS DEL DESEMPEÑO OCUPACIONAL I-02                                 | ESCUELA DE REHABILITACION HUMANA
+ ELSA PATRICIA      | MUÑOZ LAVERDE       | BIOMETRÍA-01                                                                        | ESCUELA DE SALUD PUBLICA
+ ELSA PATRICIA      | MUÑOZ LAVERDE       | EPIDEMIOLOGÍA SERVICIOS-01                                                          | ESCUELA DE SALUD PUBLICA
+ ELSA PATRICIA      | MUÑOZ LAVERDE       | PROMOCIÓN DE LA SALUD II-01                                                         | ESCUELA DE SALUD PUBLICA
+ ESTEFANIE          | TONGUINO ROSERO      | PRÁCTICA PROFESIONAL EN FISIOTERAPIA III-01                                         | ESCUELA DE REHABILITACION HUMANA
+ FABIAN             | MENDEZ PAZ           | BIOESTADÍSTICA DESCRIPTIVA Y ANALÍTICA-01                                          | ESCUELA DE SALUD PUBLICA
+ FABIAN             | MENDEZ PAZ           | BIOESTADÍSTICA II-01                                                                | ESCUELA DE SALUD PUBLICA
+ FABIAN             | MENDEZ PAZ           | EPIDEMIOLOGÍA APLICADA II-01                                                        | ESCUELA DE SALUD PUBLICA
+ FABIAN             | MENDEZ PAZ           | FRANJA SOCIAL EN SALUD II-04                                                         | ESCUELA DE SALUD PUBLICA
+ FERNANDO           | ARTEAGA SUAREZ       | FRANJA SOCIAL EN SALUD II-01                                                         | ESCUELA DE SALUD PUBLICA
+ FERNANDO           | ARTEAGA SUAREZ       | VIGILANCIA EPIDEMIOLÓGICA-01                                                        | ESCUELA DE SALUD PUBLICA
+ FERNANDO           | ARTEAGA SUAREZ       | VIGILANCIA EPIDEMIOLÓGICA-02                                                        | ESCUELA DE SALUD PUBLICA
+ FERNANDO           | CASTRO HERRERA       | CLUB DE REVISTAS III-07                                                              | ESCUELA DE CIENCIAS BASICAS
+ FERNANDO           | CASTRO HERRERA       | FISIOLOGÍA DE SISTEMAS II-01                                                        | CIENCIAS FISIOLOGICAS
+ FERNANDO           | CASTRO HERRERA       | MANEJO DE BIOMODELO MURINO EN INVESTIGACIÓN BIOMÉDICA-01                           | MORFOLOGIA
+ FERNANDO           | CASTRO HERRERA       | SEMINARIO DE INVESTIGACIÓN III-07                                                   | ESCUELA DE CIENCIAS BASICAS
+ FERNANDO           | CASTRO HERRERA       | TOXINOLOGÍA ANIMAL-01                                                               | CIENCIAS FISIOLOGICAS
+ FERNANDO           | CORDOBA              | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ FLOR NEYFY         | BOTINA MUÑOZ        | INVESTIGACIÓN I-01                                                                  | ESCUELA DE ENFERMERIA
+ FRANCIA ELENA      | TRIANA ESCOBAR       | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ GABRIEL            | CARDENAS             | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ GABRIEL            | DAZA                 | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ GARIBALDI ALFONSO  | BALDOVINO SOLORZANO  | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ GARIBALDI ALFONSO  | BALDOVINO SOLORZANO  | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ GERMAN             | RAMIREZ              | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ GLADYS EUGENIA     | CANAVAL ERAZO        | INVESTIGACIÓN II-01                                                                 | ESCUELA DE ENFERMERIA
+ GLORIA I.          | QUIROGA CUBIDES      | PRÁCTICA PROFESIONAL EN FONOAUDIOLOGÍA II-02                                       | ESCUELA DE REHABILITACION HUMANA
+ GLORIA INES        | PALMA ALVAREZ        | INFECCIOSAS II-01                                                                    | MICROBIOLOGIA
+ GLORIA INES        | PALMA ALVAREZ        | INTEGRIDAD CIENTÍFICA-01                                                            | MICROBIOLOGIA
+ GLORIA INES        | PALMA ALVAREZ        | MICROBIOLOGÍA-01                                                                    | MICROBIOLOGIA
+ GLORIA ISABEL      | TORO CORDOBA         | APLICACIONES TECNOLÓGICAS EN CIENCIAS DE LA SALUD-01                                | ESCUELA DE MEDICINA
+ GUILLERMO          | HURTADO AGUIRRE      | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ GUSTAVO ADOLFO     | ORDOÑEZ ARANA       | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ GUSTAVO ALBERTO    | SOTO REYES           | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ GUSTAVO DE JESUS   | ECHEVERRY LOAIZA     | EDUCACIÓN PARA LA SALUD-01                                                          | ESCUELA DE ENFERMERIA
+ HEBERTH            | MURILLO              | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ HEBERTH            | MURILLO              | MEDICINA DEL TRABAJO -PREVENCIÓN EN AMBIENTE OPERATIVO-01                           | ESCUELA DE SALUD PUBLICA
+ HEBERTH            | MURILLO              | METODOLOGÍA DE LA INVESTIGACIÓN III-01                                             | ESCUELA DE SALUD PUBLICA
+ HEBERTH            | MURILLO              | TRABAJO DE INVESTIGACIÓN-01                                                         | ESCUELA DE SALUD PUBLICA
+ HECTOR             | VELASQUEZ            | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ HELMER DE JESUS    | ZAPATA OSSA          | BIOESTADÍSTICA II-01                                                                | ESCUELA DE SALUD PUBLICA
+ HELMER DE JESUS    | ZAPATA OSSA          | TRABAJO DE INVESTIGACIÓN-02                                                         | ESCUELA DE SALUD PUBLICA
+ HERNAN             | GOMEZ                | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ HERNAN             | GOMEZ                | MEDICINA DEL TRABAJO -PREVENCIÓN EN AMBIENTE OPERATIVO-01                           | ESCUELA DE SALUD PUBLICA
+ HERNAN             | GOMEZ                | METODOLOGÍA DE LA INVESTIGACIÓN III-01                                             | ESCUELA DE SALUD PUBLICA
+ HERNAN             | GOMEZ                | TRABAJO DE INVESTIGACIÓN-01                                                         | ESCUELA DE SALUD PUBLICA
+ HERNANDO           | GALEANO MONTOYA      | METODOLOGÍAS DE AUTOFORMACIÓN-80                                                   | OFICINA EN EDUCACION EN SALUD
+ HERNEY ANDRES      | GARCIA PERDOMO       | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ HUGO               | HURTADO GUTIERREZ    | METODOLOGÍA DE LA INVESTIGACIÓN III-01                                             | ESCUELA DE SALUD PUBLICA
+ ISABEL CRISTINA    | CASAS QUIROGA        | FRANJA SOCIAL EN SALUD II-11                                                         | ESCUELA DE SALUD PUBLICA
+ ISABEL CRISTINA    | CASAS QUIROGA        | PRACTICA PROFESIONAL I -LABORATORIO DE HABILIDADES Y DESTREZAS EN REHABILITACIÓN-08 | ESCUELA DE REHABILITACION HUMANA
+ J.                 | HOLGUIN              | VIGILANCIA EPIDEMIOLÓGICA-03                                                        | ESCUELA DE SALUD PUBLICA
+ J.C.               | VELASQUEZ            | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ JAIME              | LEE ISAZA            | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JAIME              | LOPEZ VELASCO        | VIGILANCIA EPIDEMIOLÓGICA-02                                                        | ESCUELA DE SALUD PUBLICA
+ JAIME              | LOPEZ VELASCO        | VIGILANCIA EPIDEMIOLÓGICA-03                                                        | ESCUELA DE SALUD PUBLICA
+ JAIME              | OLAYO MURIEL         | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JAIRO              | VICTORIA CHAPARRO    | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JANETH             | MOSQUERA BECERRA     | METODOLOGÍA DE LA INVESTIGACIÓN I-02                                               | ESCUELA DE SALUD PUBLICA
+ JANETH             | MOSQUERA BECERRA     | PROYECTO DE INVESTIGACIÓN I-01                                                      | ESCUELA DE SALUD PUBLICA
+ JANETH DEL PILAR   | VILLANUEVA REYES     | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JAVIER             | TORRES MUÑOZ        | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JENNY LILIANA      | OSORIO AMAYA         | PRÁCTICA PROFESIONAL EN FISIOTERAPIA IV-01                                          | ESCUELA DE REHABILITACION HUMANA
+ JESUS ALBERTO      | CALERO ESCOBAR       | PROYECCIÓN SOCIAL I-01                                                              | ESTOMATOLOGIA
+ JESUS ALBERTO      | HERNANDEZ SILVA      | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ JESUS ANSELMO      | TABARES GIRALDO      | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ JESUS ARNALDO      | REYES MARTÍNEZ      | FUNDAMENTOS DE MEDICINA FAMILIAR I-01                                                | SALUD FAMILIAR
+ JESUS EDUARDO      | RAMIREZ OBANDO       | METABOLISMO-01                                                                       | CIENCIAS FISIOLOGICAS
+ JESUS IGNACIO      | DIAZ ARELLANO        | MEDICINA  FAMILIAR INTEGRAL I - MEDICINA FAMILIAR-01                                 | SALUD FAMILIAR
+ JHON FABER         | HERNANDEZ OROZCO     | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JHON JAIR          | OCHOA AGUIRRE        | FUNDAMENTOS DE MEDICINA FAMILIAR I-01                                                | SALUD FAMILIAR
+ JHON JAIR          | OCHOA AGUIRRE        | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ JHON JAIR          | OCHOA AGUIRRE        | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JHONATHAN          | GUERRERO SINISTERRA  | FRANJA SOCIAL EN SALUD IV-03                                                         | ESCUELA DE SALUD PUBLICA
+ JHONATHAN          | GUERRERO SINISTERRA  | INTERACCIÓN BÁSICA-CLÍNICA EN ODONTOLOGÍA-01                                     | ESCUELA DE ODONTOLOGIA
+ JHONATHAN          | GUERRERO SINISTERRA  | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ JHONATHAN          | GUERRERO SINISTERRA  | PROYECCIÓN SOCIAL I-01                                                              | ESTOMATOLOGIA
+ JHONATHAN          | GUERRERO SINISTERRA  | URGENCIAS MÉDICAS EN EL CONSULTORIO ODONTOLÓGICO-01                                | ESTOMATOLOGIA
+ JOE HUMBERTO       | BRAVO BONILLA        | HISTOLOGÍA DE SISTEMAS-01                                                           | MORFOLOGIA
+ JOHANNA            | RENDON VALENCIA      | CUIDADO CRITICO I-01                                                                 | ESCUELA DE ENFERMERIA
+ JOHANNA            | RENDON VALENCIA      | DESARROLLO PROFESIONAL I-01                                                          | ESCUELA DE ENFERMERIA
+ JORGE              | CARBONELL GONZALEZ   | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JORGE              | MEJIA LOPEZ          | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JORGE EDUARDO      | GOMEZ CAMPO          | MEDICINA  FAMILIAR INTEGRAL I - MEDICINA FAMILIAR-01                                 | SALUD FAMILIAR
+ JORGE ENRIQUE      | SOTO FRANCO          | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ JORGE HERNAN       | RAMIREZ ESCOBAR      | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JORGE HUMBERTO     | MENA MUÑOZ          | EPIDEMIOLOGÍA APLICADA II-01                                                        | ESCUELA DE SALUD PUBLICA
+ JORGE HUMBERTO     | MENA MUÑOZ          | TRAUMA Y VIOLENCIA I-01                                                              | CIRUGIA
+ JORGE IRNE         | LOZADA               | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ JORGE IRNE         | LOZADA               | MEDICINA DEL TRABAJO -PREVENCIÓN EN AMBIENTE OPERATIVO-01                           | ESCUELA DE SALUD PUBLICA
+ JORGE IRNE         | LOZADA               | METODOLOGÍA DE LA INVESTIGACIÓN III-01                                             | ESCUELA DE SALUD PUBLICA
+ JORGE IRNE         | LOZADA               | TRABAJO DE INVESTIGACIÓN-01                                                         | ESCUELA DE SALUD PUBLICA
+ JOSE ALFREDO       | SERNA OSPINA         | FUNDAMENTOS DE MEDICINA FAMILIAR I-01                                                | SALUD FAMILIAR
+ JOSE ALFREDO       | SERNA OSPINA         | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ JOSE DANIEL        | OSORIO OROZCO        | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JOSE EDUARDO       | SANTACOLAMA GARCIA   | METODOLOGÍAS DE AUTOFORMACIÓN-80                                                   | OFICINA EN EDUCACION EN SALUD
+ JOSE MARIA         | SATIZABAL SOTO       | METABOLISMO-01                                                                       | CIENCIAS FISIOLOGICAS
+ JOSE MAURICIO      | OCAMPO CHAPARRO      | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JOSE OSCAR         | GUTIERREZ MONTES     | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JOSE RAFAEL        | TOVAR CUEVAS         | BIOESTADÍSTICA I-01                                                                 | CIENCIAS FISIOLOGICAS
+ JOSE RICARDO       | MALAVER ACERO        | MANEJO DE BIOMODELO MURINO EN INVESTIGACIÓN BIOMÉDICA-01                           | MORFOLOGIA
+ JOSÉ GERMÁN      | CATACOLÍ SAMAYOA    | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JUAN PABLO         | RESTREPO JIMENEZ     | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ JUAN PABLO         | TROCHEZ SANCHEZ      | TRAUMA Y VIOLENCIA I-01                                                              | CIRUGIA
+ JUDITH             | PARDO                | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ JULIAN ALBERTO     | HERRERA MURGUEITIO   | TRABAJO DE INVESTIGACIÓN-03                                                         | ESCUELA DE SALUD PUBLICA
+ JULIAN ALBERTO     | HERRERA MURGUEITIO   | TRABAJO DE INVESTIGACIÓN-04                                                         | ESCUELA DE SALUD PUBLICA
+ JULIANA ANDREA     | LASPRILLA VILLAMARIN | ANÁLISIS DE LA ACTIVIDAD-01                                                         | ESCUELA DE REHABILITACION HUMANA
+ JULIANA ANDREA     | LASPRILLA VILLAMARIN | PRÁCTICA PROFESIONAL I-09                                                           | ESCUELA DE REHABILITACION HUMANA
+ LAURA              | JARAMILLO OTOYA      | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ LAURA JUDITH       | ARDILA LEAL          | MEDICINA  FAMILIAR INTEGRAL I - MEDICINA FAMILIAR-01                                 | SALUD FAMILIAR
+ LAURA MARCELA      | CORRALES MARIN       | CUIDADO CRITICO I-01                                                                 | ESCUELA DE ENFERMERIA
+ LAUREANO RICARDO   | QUINTERO BARRERA     | TRAUMA Y VIOLENCIA I-01                                                              | CIRUGIA
+ LEONARDO           | FIERRO PEREZ         | FISIOLOGÍA CELULAR AVANZADA-18                                                      | CIENCIAS FISIOLOGICAS
+ LEONARDO           | FIERRO PEREZ         | FISIOLOGÍA DE SISTEMAS II-01                                                        | CIENCIAS FISIOLOGICAS
+ LEONARDO           | FIERRO PEREZ         | FISIOLOGÍA ESPECIAL-01                                                              | CIENCIAS FISIOLOGICAS
+ LEONARDO           | FIERRO PEREZ         | FISIOLOGÍA ESPECIAL-02                                                              | CIENCIAS FISIOLOGICAS
+ LEONARDO           | FIERRO PEREZ         | FISIOLOGÍA-18                                                                       | CIENCIAS FISIOLOGICAS
+ LESSBY             | GOMEZ SALAZAR        | EL HOMBRE Y EL MOVIMIENTO-01                                                         | ESCUELA DE REHABILITACION HUMANA
+ LILIANA MATILDE    | JIMENEZ CORREA       | PRINCIPIOS DE LA MEDICINA TRADICIONAL CHINA-01                                       | ESCUELA DE REHABILITACION HUMANA
+ LINA MARCELA       | SERRANO RAMOS        | EDUCACIÓN PARA LA SALUD-01                                                          | ESCUELA DE ENFERMERIA
+ LORENA             | MATTA CORTES         | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ LUIS ALEXANDER     | LOVERA MONTILLA      | ENFERMERÍA NEONATAL I-01                                                            | ESCUELA DE ENFERMERIA
+ LUIS ALEXANDER     | LOVERA MONTILLA      | INVESTIGACIÓN I-01                                                                  | ESCUELA DE ENFERMERIA
+ LUIS ALEXANDER     | LOVERA MONTILLA      | SEMINARIO DE INVESTIGACIÓN I-01                                                     | ESCUELA DE ENFERMERIA
+ LUZ ANGELA         | CASTRO ALEGRIA       | PRÁCTICA EN MICOLOGÍA MÉDICA-01                                                   | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ LUZ ANGELA         | CASTRO ALEGRIA       | PRÁCTICA EN MICOLOGÍA MÉDICA-02                                                   | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ LUZ ANGELA         | MENA COLLAZOS        | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ LUZ DEIBY          | JIMENEZ RENDON       | PRÁCTICA PROFESIONAL EN FISIOTERAPIA IV-01                                          | ESCUELA DE REHABILITACION HUMANA
+ LUZ STELLA         | FRANCO FRANCO        | DESARROLLO PROFESIONAL I-01                                                          | ESCUELA DE ENFERMERIA
+ LUZ STELLA         | FRANCO FRANCO        | TERAPIAS ALTERNATIVAS-01                                                             | ESCUELA DE ENFERMERIA
+ LUZMILA            | HERNANDEZ SAMPAYO    | CUIDADO AMBULATORIO MATERNO INFANTIL-01                                              | ESCUELA DE ENFERMERIA
+ LUZMILA            | HERNANDEZ SAMPAYO    | CUIDADO DE ENFERMERÍA EN PROCEDIMIENTOS BÁSICOS Y ESPECIALES-01                    | ESCUELA DE ENFERMERIA
+ LUZMILA            | HERNANDEZ SAMPAYO    | INVESTIGACIÓN II-01                                                                 | ESCUELA DE ENFERMERIA
+ LUZMILA            | HERNANDEZ SAMPAYO    | SEXUALIDAD HUMANA Y SALUD REPRODUCTIVA-01                                            | ESCUELA DE ENFERMERIA
+ LYDA ELENA         | OSORIO AMAYA         | BIOESTADÍSTICA DESCRIPTIVA Y ANALÍTICA-02                                          | ESCUELA DE SALUD PUBLICA
+ LYDA ELENA         | OSORIO AMAYA         | FORMULACIÓN Y EVALUACIÓN DE PROYECTOS - DOCTORADO EN SALUD-01                      | OFICINA EN EDUCACION EN SALUD
+ LYDA ELENA         | OSORIO AMAYA         | SEMINARIO DE TESIS IV - DOCTORADO EN SALUD-01                                        | OFICINA EN EDUCACION EN SALUD
+ LYDA ELENA         | OSORIO AMAYA         | TRABAJO DE INVESTIGACIÓN-03                                                         | ESCUELA DE SALUD PUBLICA
+ LYDA ELENA         | OSORIO AMAYA         | TRABAJO DE INVESTIGACIÓN-04                                                         | ESCUELA DE SALUD PUBLICA
+ LYDA ELENA         | OSORIO AMAYA         | VIGILANCIA EPIDEMIOLÓGICA-03                                                        | ESCUELA DE SALUD PUBLICA
+ MARGARITA MARIA    | SALGADO VILLEGAS     | CUIDANDO MI SALUD PARA PODER CUIDAR LA DE OTROS-50                                   | ESCUELA DE MEDICINA
+ MARGARITA MARIA    | SALGADO VILLEGAS     | CUIDANDO MI SALUD PARA PODER CUIDAR LA DE OTROS-51                                   | ESCUELA DE MEDICINA
+ MARGARITA ROSA     | PADILLA              | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | CUIDADO AMBULATORIO AL ADULTO Y ANCIANO-01                                           | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | CUIDADO CRITICO I-01                                                                 | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | CUIDADO DE ENFERMERÍA EN PROCEDIMIENTOS BÁSICOS Y ESPECIALES-01                    | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | CUIDADO EN ENFERMERÍA A LAS PERSONAS CON HERIDAS Y OSTOMÍAS II-01                  | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | DESARROLLO PROFESIONAL I-01                                                          | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | ENFERMERÍA NEONATAL I-01                                                            | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | GESTIÓN EN ENFERMERÍA I-01                                                         | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | GESTIÓN EN ENFERMERÍA II-01                                                        | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | INVESTIGACIÓN I-01                                                                  | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | INVESTIGACIÓN II-01                                                                 | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | SEMINARIO DE INVESTIGACIÓN I-01                                                     | ESCUELA DE ENFERMERIA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | SOPORTE VITAL BÁSICO EN LA ATENCIÓN PREHOSPITALARIA-01                             | ESCUELA DE MEDICINA
+ MARGOT CONSUELO    | BURBANO LOPEZ        | TERAPIAS ALTERNATIVAS-01                                                             | ESCUELA DE ENFERMERIA
+ MARIA ANA          | TOVAR SANCHEZ        | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ MARIA AURORA       | LONDOÑO AVENDAÑO   | BIOLOGÍA CELULAR-01                                                                 | CIENCIAS FISIOLOGICAS
+ MARIA AURORA       | LONDOÑO AVENDAÑO   | BIOLOGÍA CELULAR-02                                                                 | CIENCIAS FISIOLOGICAS
+ MARIA AURORA       | LONDOÑO AVENDAÑO   | BIOLOGÍA MOLECULAR-01                                                               | CIENCIAS FISIOLOGICAS
+ MARIA CAROLINA     | PUSTOVRH             | HISTOLOGÍA DE SISTEMAS-01                                                           | MORFOLOGIA
+ MARIA CAROLINA     | PUSTOVRH             | MANEJO DE BIOMODELO MURINO EN INVESTIGACIÓN BIOMÉDICA-01                           | MORFOLOGIA
+ MARIA CLARA        | TOVAR DE ACOSTA      | SEXUALIDAD HUMANA Y SALUD REPRODUCTIVA-01                                            | ESCUELA DE ENFERMERIA
+ MARIA CRISTINA     | ARANGO DE LA CRUZ    | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ MARIA DEL CARMEN   | GONGORA CHAVEZ       | FUNDAMENTOS DE BIOQUÍMICA I-50                                                      | CIENCIAS FISIOLOGICAS
+ MARIA DEL PILAR    | CRESPO ORTIZ         | ANTIBIÓTICOS Y RESISTENCIA MICROBIANA-01                                            | MICROBIOLOGIA
+ MARIA DEL PILAR    | CRESPO ORTIZ         | MICROBIOLOGÍA-01                                                                    | MICROBIOLOGIA
+ MARIA DEL PILAR    | ZAPATA ALBAN         | CREATIVIDAD-01                                                                       | ESCUELA DE REHABILITACION HUMANA
+ MARIA DEL PILAR    | ZAPATA ALBAN         | TERAPIA OCUPACIONAL EN LABORAL-01                                                    | ESCUELA DE REHABILITACION HUMANA
+ MARIA ELENA        | MEJIA ROJAS          | INVESTIGACIÓN II-01                                                                 | ESCUELA DE ENFERMERIA
+ MARIA ESPERANZA    | LONDOÑO GUTIERREZ   | CUIDADO CRITICO I-01                                                                 | ESCUELA DE ENFERMERIA
+ MARIA ESPERANZA    | LONDOÑO GUTIERREZ   | CUIDADO EN ENFERMERÍA A LAS PERSONAS CON HERIDAS Y OSTOMÍAS II-01                  | ESCUELA DE ENFERMERIA
+ MARIA FLORENCIA    | VELASCO DE MARTINEZ  | PRÁCTICA PROFESIONAL EN FISIOTERAPIA III-01                                         | ESCUELA DE REHABILITACION HUMANA
+ MARIA HELENA       | RUBIO GRILLO         | PRÁCTICA PROFESIONAL I-01                                                           | ESCUELA DE REHABILITACION HUMANA
+ MARIA INES         | ALVAREZ VALLE        | INFECCIOSAS II-01                                                                    | MICROBIOLOGIA
+ MARIA INES         | ALVAREZ VALLE        | MICROBIOLOGÍA-01                                                                    | MICROBIOLOGIA
+ MARIA ISABEL       | GUTIERREZ MARTINEZ   | BIOESTADÍSTICA DESCRIPTIVA Y ANALÍTICA-03                                          | ESCUELA DE SALUD PUBLICA
+ MARIA ISABEL       | GUTIERREZ MARTINEZ   | EPIDEMIOLOGÍA APLICADA II-01                                                        | ESCUELA DE SALUD PUBLICA
+ MARIA ISABEL       | GUTIERREZ MARTINEZ   | TRAUMA Y VIOLENCIA I-01                                                              | CIRUGIA
+ MARIA ISABEL       | VELASCO ROLDAN       | CUIDADO DE ENFERMERÍA EN PROCEDIMIENTOS BÁSICOS Y ESPECIALES-01                    | ESCUELA DE ENFERMERIA
+ MARIA OLIVA        | SANCHEZ              | EDUCACIÓN PARA LA SALUD-01                                                          | ESCUELA DE ENFERMERIA
+ MARIA OLIVA        | SANCHEZ              | FRANJA SOCIAL EN SALUD II-05                                                         | ESCUELA DE SALUD PUBLICA
+ MARIA SANDRA       | NARANJO RUIZ         | COMUNICACIÓN Y LENGUAJE-01                                                          | ESCUELA DE REHABILITACION HUMANA
+ MARIA SANDRA       | NARANJO RUIZ         | PRÁCTICA PROFESIONAL EN FONOAUDIOLOGÍA II-02                                       | ESCUELA DE REHABILITACION HUMANA
+ MARIA SANDRA       | NARANJO RUIZ         | TECNOLOGIA DE APOYO PARA LA COMUNICACION-01                                          | ESCUELA DE REHABILITACION HUMANA
+ MARIA SANDRA       | NARANJO RUIZ         | TECNOLOGÍA EN REHABILITACIÓN-02                                                    | ESCUELA DE REHABILITACION HUMANA
+ MARIA VICTORIA     | BOLAÑOS GALLARDO    | HEMATOLOGÍA CLÍNICA-01                                                             | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MARIA VICTORIA     | BOLAÑOS GALLARDO    | HEMATOLOGÍA CLÍNICA-02                                                             | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MARIA VICTORIA     | BOLAÑOS GALLARDO    | PRÁCTICA CLÍNICA EN HEMATOLOGÍA-01                                                | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MARIA VICTORIA     | BOLAÑOS GALLARDO    | PRÁCTICA CLÍNICA EN HEMATOLOGÍA-02                                                | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MARIA VICTORIA     | BOLAÑOS GALLARDO    | TRABAJO DE CAMPO-02                                                                  | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MARTHA             | CARRASCAL GUZMAN     | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ MARTHA             | CUBILLOS             | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ MARTHA CECILIA     | GONZALEZ HIDALGO     | EDUCACIÓN PARA LA SALUD-01                                                          | ESCUELA DE ENFERMERIA
+ MARTHA CECILIA     | VIVAS MERCADO        | FRANJA SOCIAL EN SALUD II-02                                                         | ESCUELA DE SALUD PUBLICA
+ MARTHA CECILIA     | VIVAS MERCADO        | FUNDAMENTOS SALUD OCUPACIONAL-01                                                     | ESCUELA DE SALUD PUBLICA
+ MARTHA CECILIA     | VIVAS MERCADO        | MEDICINA DEL TRABAJO -PREVENCIÓN EN AMBIENTE OPERATIVO-01                           | ESCUELA DE SALUD PUBLICA
+ MARTHA CECILIA     | VIVAS MERCADO        | METODOLOGÍA DE LA INVESTIGACIÓN III-01                                             | ESCUELA DE SALUD PUBLICA
+ MARTHA CECILIA     | VIVAS MERCADO        | TRABAJO DE INVESTIGACIÓN-01                                                         | ESCUELA DE SALUD PUBLICA
+ MARY CIELO         | FLÓREZ GARCÍA      | EDUCACIÓN PARA LA SALUD-01                                                          | ESCUELA DE ENFERMERIA
+ MAURICIO           | MUÑOZ HERRÁN       | MEDICINA  FAMILIAR INTEGRAL I - MEDICINA FAMILIAR-01                                 | SALUD FAMILIAR
+ MAURICIO           | PALACIOS GOMEZ       | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ MAURICIO           | ZULUAGA ZULUAGA      | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ MAURICIO RAFAEL    | BARRETO PARRA        | INFECCIOSAS II-01                                                                    | MICROBIOLOGIA
+ MAXIMILIANO        | PARRA CAMARILLO      | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ MELISSA GINETH     | GUTIERREZ OVIEDO     | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ MELISSA GINETH     | GUTIERREZ OVIEDO     | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ MELVA PATRICIA     | OCAMPO GONZALEZ      | INVESTIGACIÓN I-01                                                                  | ESCUELA DE ENFERMERIA
+ MERCEDES           | SALCEDO CIFUENTES    | ASEGURAMIENTO DE LA CALIDAD-01                                                       | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MERCEDES           | SALCEDO CIFUENTES    | BIOQUÍMICA CLÍNICA I-01                                                            | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MERCEDES           | SALCEDO CIFUENTES    | FUNDAMENTOS EN GENÉTICA FORENSE-01                                                  | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MERCEDES           | SALCEDO CIFUENTES    | PRÁCTICA CLÍNICA EN BIOQUÍMICA-01                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MERCEDES           | SALCEDO CIFUENTES    | PRÁCTICA CLÍNICA EN BIOQUÍMICA-02                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MERCEDES           | SALCEDO CIFUENTES    | SISTEMA DE GESTIÓN DE CALIDAD-01                                                    | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ MILDREY            | MOSQUERA ESCUDERO    | BIOLOGÍA CELULAR-01                                                                 | CIENCIAS FISIOLOGICAS
+ MILDREY            | MOSQUERA ESCUDERO    | BIOLOGÍA CELULAR-02                                                                 | CIENCIAS FISIOLOGICAS
+ MILDREY            | MOSQUERA ESCUDERO    | BIOLOGÍA MOLECULAR-01                                                               | CIENCIAS FISIOLOGICAS
+ MILDREY            | MOSQUERA ESCUDERO    | ENZIMAS INTERACCIONES MOLECULARES-01                                                 | CIENCIAS FISIOLOGICAS
+ MILDREY            | MOSQUERA ESCUDERO    | METABOLISMO AVANZADO TEMAS ESPECIALIZADOS-01                                         | CIENCIAS FISIOLOGICAS
+ MILDREY            | MOSQUERA ESCUDERO    | METABOLISMO-01                                                                       | CIENCIAS FISIOLOGICAS
+ MONICA             | ESPINOSA ARANA       | FRANJA SOCIAL EN SALUD II-10                                                         | ESCUELA DE SALUD PUBLICA
+ MONICA             | ESPINOSA ARANA       | FRANJA SOCIAL EN SALUD IV-02                                                         | ESCUELA DE SALUD PUBLICA
+ MONICA             | ESPINOSA ARANA       | METODOLOGÍA DE LA INVESTIGACIÓN III-01                                             | ESCUELA DE SALUD PUBLICA
+ MONICA             | ESPINOSA ARANA       | TRABAJO DE INVESTIGACIÓN-01                                                         | ESCUELA DE SALUD PUBLICA
+ MONICA             | ORTIZ PALACIOS       | METODOLOGÍAS DE AUTOFORMACIÓN-80                                                   | OFICINA EN EDUCACION EN SALUD
+ MYRIAM             | ASTUDILLO HERNANDEZ  | MICROBIOLOGÍA-01                                                                    | MICROBIOLOGIA
+ N                  | ALZATE               | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ NASLY LORENA       | HERNANDEZ GUTIERREZ  | DESARROLLO MOTOR NORMAL-01                                                           | ESCUELA DE REHABILITACION HUMANA
+ NASLY LORENA       | HERNANDEZ GUTIERREZ  | INVESTIGACIÓN II-02                                                                 | ESCUELA DE REHABILITACION HUMANA
+ NASLY LORENA       | HERNANDEZ GUTIERREZ  | PRÁCTICA PROFESIONAL EN FISIOTERAPIA III-01                                         | ESCUELA DE REHABILITACION HUMANA
+ NATALIA            | RAMIREZ QUINTERO     | TECNOLOGÍA EN REHABILITACIÓN-01                                                    | ESCUELA DE REHABILITACION HUMANA
+ NATALIA            | TOBO MEDINA          | SEMINARIO DE INVESTIGACIÓN I-01                                                     | ESCUELA DE ENFERMERIA
+ NAYDU              | ACOSTA RAMIREZ       | FRANJA SOCIAL EN SALUD IV-04                                                         | ESCUELA DE SALUD PUBLICA
+ NHORA              | ARIAS DE ARENAS      | PRÁCTICA CLÍNICA EN BIOQUÍMICA-01                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ NHORA              | ARIAS DE ARENAS      | PRÁCTICA CLÍNICA EN BIOQUÍMICA-02                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ NHORA LUCIA        | ARIAS                | EVALUACIÓN SOCIAL Y ECONÓMICA EN SALUD-02                                          | ESCUELA DE SALUD PUBLICA
+ OFELIA             | FLOREZ ECHEVERRY     | BIOQUÍMICA CLÍNICA I-01                                                            | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ OFELIA             | FLOREZ ECHEVERRY     | ELECTIVA PROFESIONAL I-01                                                            | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ OFELIA             | FLOREZ ECHEVERRY     | ELECTIVA PROFESIONAL II-02                                                           | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ OFELIA             | FLOREZ ECHEVERRY     | PRÁCTICA CLÍNICA EN BIOQUÍMICA-01                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ OFELIA             | FLOREZ ECHEVERRY     | PRÁCTICA CLÍNICA EN BIOQUÍMICA-02                                                 | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ OFELIA             | FLOREZ ECHEVERRY     | TRABAJO DE CAMPO-06                                                                  | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ ORLANDO            | ESPINOZA BERMUDEZ    | FUNDAMENTOS DE MEDICINA FAMILIAR I-01                                                | SALUD FAMILIAR
+ ORLANDO            | ESPINOZA BERMUDEZ    | MEDICINA FAMILIAR INTEGRAL II-01                                                     | SALUD FAMILIAR
+ OSCAR MAURICIO     | CARVAJAL SEPULVEDA   | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ PABLO EMILIO       | MOLANO VALENCIA      | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ PAOLA XIMENA       | DAVILA VASQUEZ       | PRÁCTICA PROFESIONAL I-02                                                           | ESCUELA DE REHABILITACION HUMANA
+ PATRICIA           | MURILLO GUERRA       | TALLER DEL DESEMPEÑO OCUPACIONAL-05                                                 | ESCUELA DE REHABILITACION HUMANA
+ PATRICIA           | MURILLO GUERRA       | TECNOLOGÍA EN REHABILITACIÓN-02                                                    | ESCUELA DE REHABILITACION HUMANA
+ PAULA ANDREA       | COLMENARES           | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ PIEDAD             | GONZALEZ             | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ PIEDAD             | GONZALEZ             | PROYECCIÓN SOCIAL I-01                                                              | ESTOMATOLOGIA
+ PILAR MIRELI       | CHOIS                | METODOLOGÍA DE LA INVESTIGACIÓN I-02                                               | ESCUELA DE SALUD PUBLICA
+ PILAR MIRELI       | CHOIS                | PROYECTO DE INVESTIGACIÓN I-01                                                      | ESCUELA DE SALUD PUBLICA
+ SANDRA             | AMAYA SANCHEZ        | PERIODONTOLOGÍA I-01                                                                | ESTOMATOLOGIA
+ SANDRA             | ESCOBAR              | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ SANDRA ISABEL      | CASTAÑO IDARRAGA    | DESARROLLO HUMANO II-03                                                              | ESCUELA DE REHABILITACION HUMANA
+ SANDRA LUCIA       | LOZANO ALVAREZ       | FISIOLOGÍA PARA ATENCIÓN PREHOSPITALARIA-80                                        | ESCUELA DE MEDICINA
+ SANTIAGO           | AGUILERA MOSQUERA    | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ SANTIAGO           | AGUILERA MOSQUERA    | TRAUMA Y VIOLENCIA I-01                                                              | CIRUGIA
+ VICTOR HUGO        | DUEÑAS RIVERA       | MEDICINA DE TRANSFUSIÓN INTEGRAL I-01                                               | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ VICTOR HUGO        | DUEÑAS RIVERA       | MEDICINA DE TRANSFUSIÓN INTEGRAL I-02                                               | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ VICTOR HUGO        | DUEÑAS RIVERA       | MEDICINA DE TRANSFUSIÓN INTEGRAL I-03                                               | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ VICTOR HUGO        | DUEÑAS RIVERA       | TRABAJO DE CAMPO-08                                                                  | ESCUELA DE BACTERIOLOGIA Y LABORATORIO CLINICO
+ VICTOR HUGO        | QUINTERO BAUTISTA    | CUIDADO AMBULATORIO MATERNO INFANTIL-01                                              | ESCUELA DE ENFERMERIA
+ VICTOR HUGO        | QUINTERO BAUTISTA    | CUIDADO DE ENFERMERÍA A PERSONAS QUE REQUIEREN PRUEBAS DE LABORATORIO-01            | ESCUELA DE ENFERMERIA
+ VICTOR HUGO        | QUINTERO BAUTISTA    | CUIDADO DE ENFERMERÍA EN PROCEDIMIENTOS BÁSICOS Y ESPECIALES-01                    | ESCUELA DE ENFERMERIA
+ VICTOR HUGO        | QUINTERO BAUTISTA    | INVESTIGACIÓN I-01                                                                  | ESCUELA DE ENFERMERIA
+ VICTOR HUGO        | QUINTERO BAUTISTA    | SEMINARIO DE INVESTIGACIÓN I-01                                                     | ESCUELA DE ENFERMERIA
+ VICTOR HUGO        | QUINTERO BAUTISTA    | SEXUALIDAD HUMANA Y SALUD REPRODUCTIVA-01                                            | ESCUELA DE ENFERMERIA
+ VICTORIA AMPARO    | RODRIGUEZ CORREDOR   | CUIDADO DE ENFERMERÍA EN PROCEDIMIENTOS BÁSICOS Y ESPECIALES-01                    | ESCUELA DE ENFERMERIA
+ VIVIAN LORENA      | DIAZ YEPES           | SOPORTE VITAL BÁSICO EN LA ATENCIÓN PREHOSPITALARIA-01                             | ESCUELA DE MEDICINA
+ YESID AUGUSTO      | SOLARTE RODRIGUEZ    | TRABAJO DE INVESTIGACIÓN-02                                                         | ESCUELA DE SALUD PUBLICA
+ YOLANDA            | CAICEDO              | SEMIOLOGÍA - INTRODUCCIÓN A LA CLÍNICA-01                                         | ESCUELA DE MEDICINA
+ YUDY ELENA         | VILLAVICENCIO FLOREZ | ODONTOLOGÍA PEDIÁTRICA Y ORTOPEDIA MAXILAR I-01                                    | ESTOMATOLOGIA
+ ZAIDER GLORIA      | TRIVIÑO VARGAS      | DESARROLLO PROFESIONAL I-01                                                          | ESCUELA DE ENFERMERIA
+ ZAIDER GLORIA      | TRIVIÑO VARGAS      | GESTIÓN EN ENFERMERÍA I-01                                                         | ESCUELA DE ENFERMERIA
+ ZAIDER GLORIA      | TRIVIÑO VARGAS      | GESTIÓN EN ENFERMERÍA II-01                                                        | ESCUELA DE ENFERMERIA
+ ZAIDER GLORIA      | TRIVIÑO VARGAS      | INVESTIGACIÓN II-01                                                                 | ESCUELA DE ENFERMERIA
+ ÁNGELA PATRICIA   | ÁLVAREZ LARA        | PRÁCTICA PROFESIONAL I-01                                                           | ESCUELA DE REHABILITACION HUMANA
+(410 rows)
+
